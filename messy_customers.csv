@@ -1,0 +1,9 @@
+email,name,city,signup
+  NEW.USER1@Example.COM ,  jamie  rivera ,austin,2025-11-02
+new.user1@example.com,Jamie Rivera,Austin,2025-11-02
+new.user2@example.com,PAT LEE,  BOSTON ,11/05/2025
+not-an-email,Bad Row,Denver,2025-11-06
+,No Email,Miami,2025-11-07
+new.user3@example.com,sky morgan,,2025-11-08
+new.user4@example.com,Robin Chen,seattle,2025/11/09
+new.user5@example.com,Alex Kim,Chicago,someday
